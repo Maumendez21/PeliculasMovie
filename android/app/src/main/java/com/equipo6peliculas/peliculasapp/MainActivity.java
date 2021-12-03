@@ -1,4 +1,5 @@
-package com.peliculasapp;
+// package com.peliculasapp;
+package com.equipo6peliculas.peliculasapp;
 
 import com.facebook.react.ReactActivity;
 
